@@ -1,0 +1,43 @@
+{
+  "name": "BLOTR Protocol Tokens",
+  "logoURI": "",
+  "keywords": [
+    "canto",
+    "LSD",
+    "LSDFi"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2022-05-31T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 7700,
+      "address": "0xFf0BAF077e8035A3dA0dD2abeCECFbd98d8E63bE",
+      "decimals": 18,
+      "name": "BLOTR Protocol",
+      "symbol": "BLOTR",
+      "logoURI": "https://raw.githubusercontent.com/stakedCANTO/tokenlists/master/logos/blotr.jpg"
+    },
+    {
+      "chainId": 7700,
+      "address": "0x9f9A1Aa08910867F38359F4287865c4A1162C202",
+      "decimals": 18,
+      "name": "Option to buy BLOTR",
+      "symbol": "oBLOTR",
+      "logoURI": "https://raw.githubusercontent.com/stakedCANTO/tokenlists/master/logos/blotr.jpg"
+    },
+    {
+      "chainId": 7700,
+      "address": "0x9F823D534954Fc119E31257b3dDBa0Db9E2Ff4ed",
+      "decimals": 18,
+      "name": "Staked CANTO",
+      "symbol": "sCANTO",
+      "logoURI": "https://raw.githubusercontent.com/stakedCANTO/tokenlists/master/logos/scanto.png"
+    }
+  ]
+}
+
+
